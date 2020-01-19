@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# TodoApp
+
+## future scope of improvement
+
+- we can add the functionality to set the priority of the particular task, and the user can distinguish them on the basis of unique icons.
+- To add date and time to a particular todo, and can remind the user accordingly.
+- Edit or delete a todo.
+- Right now we are storing the todos in our local storage, we can save the todo in some server so that the user can access it from anywhere any time.
+- we can add the functionality to drag and drop a todo so that user can arrange the todo accordingly.
+
 ## Available Scripts
 
 In the project directory, you can run:
